@@ -1,0 +1,70 @@
+.malumotlar-big{
+    height: 500px;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+    background-color:#f1f0ee;
+    margin-top: 70px;
+}
+
+.malumotlar-div{
+    width: 75%;
+    height: 500px;
+    display: flex;
+}
+.malumotlar-logo{
+    width: 295px;
+    margin-top: 30px;
+    margin-left: -15px;
+   
+}
+.malumotlar-div6{
+    margin-top: 40px;
+    width: 350%;
+}
+.divm1{
+    padding: 10px;
+    height: 250px;
+    justify-content: space-around;
+    display: flex;
+}
+.divm2{
+   padding: 10px;
+    display: flex;
+    justify-content: space-around;
+    height: 250px;
+    margin-left: 20px;
+}
+.malumotlar-p{
+    margin-top: 10px;
+    color:  #607987;
+}
+.malumotlar-p2{
+    margin-top: 60px;
+    color:  #607987;
+}
+.p{
+    color: #607987;
+    margin-top: 20px;
+}
+.m-icon{
+    display: flex;
+    gap: 10px !important;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    margin-top: 10px;
+    margin-left: -10px;
+
+}
+.icon-t{
+    gap: 10px !important;
+    color: #ba8d5b;
+    display: flex;
+}
+.hr{
+    align-items: center;
+    display: flex;
+    justify-content: center;
+}

@@ -1,0 +1,205 @@
+*{
+    margin: 0;
+    font-family:sans-serif;
+    box-sizing: border-box;
+
+    
+}
+
+
+.tarmoqlardiv{
+    display: flex;
+   justify-content: center;
+   flex-wrap: wrap;
+    max-width: 1220px;
+    margin: auto;
+    gap: 20px;
+    
+}
+.bigtarmoqlar{
+    /* height: 600px; */
+    padding: 30px;
+    
+    
+}
+.h1tarmoqlar{
+    padding: 20px;
+    margin-left: 110px;
+    
+}
+.ptarmoqlar{
+    color: grey;
+}
+.bigh1{
+    font-size: 20px;
+}
+.imgtarmoqlar{
+    display: flex;
+    width: 60px;
+   
+}
+
+.divyonalishlar{
+    height: 580px;
+    background-color: #F9F8F7;
+    border: 1px solid  #F9F8F7;
+}
+.h1yonalishlar{
+    padding: 40px;
+    font-size: 32px;
+    margin-left: 110px;
+}
+.pyonalishlar1{
+    margin-left: 155px;
+    color: #607987;
+    font-size: 16px;
+    
+}
+.pyonalishlar2{
+    
+    color: #cccccccc;
+    font-size: 16px;
+}
+.pyonalishlar3{
+    color: #0eb182;
+    font-size: 16px;
+    margin-left: 155px;
+    margin-top: -10px;
+}
+.divyordam{
+    border: 1px solid black;
+    height: 600px;
+    padding: 0px 32px;
+}
+.divizoxlar{
+    border: 1px solid black;
+    height: 600px;
+    padding: 0px 32px;
+}
+.h1yordam{
+    margin-top: 60px;
+    margin-left: 125px;
+}
+.pyordam{
+    margin-top: 25px;
+    margin-left: 125px;
+    color: #607987;
+}
+.divkirish{
+    margin: 0;
+    display: flex;
+    position: fixed;
+    width: 99.2%;
+    background-color: #f1f0ee;
+    height: 90px;
+    top: 0px;
+    
+    
+}
+.navbarkirish{
+    display: flex;
+    margin-left: 700px;
+    gap: 30px;
+    align-items: center;
+    z-index: 15;
+}
+.kirishbutton{
+    height: 40px;
+    color: black !important;
+    margin-left: 1200px !important;
+}
+.kirish{
+    border: 2px solid  #f1f0ee;
+    background-color: #f1f0ee;
+    z-index:10 !important   ;
+}
+.kirishp{
+    color: #607987;
+    font-size: 18px;
+    margin-left: 175px;
+    margin-top: -140px;
+}
+.logokirish{
+    font-size: 16px;
+    background-color: #ba8d5b;
+    color: white;
+    width: 206px;
+    height: 46px;
+    border-radius: 30px ;
+    border: #ba8d5b;
+    margin-left: 175px;
+    margin-top: 40px;
+}
+.imgkirish{
+    width: 300px;
+    height: 65px;
+    margin: 5px;
+    margin-left: 120px;
+}
+.boyimg{
+    width: 500px;
+    height:500px;
+    margin-top: -400px;
+    margin-left: 800px;
+
+}
+.animated{
+    margin: 150px;
+    margin-top: 150px;
+    font-size:20px;
+    padding: 20px;
+    z-index: -1 !important;
+}
+.animated .text{
+    z-index: -1 !important;
+}
+
+.last-text{
+    margin-top: 0px;
+
+}
+.middle-text{
+    color: #ba8d5b;
+}
+.bigbox{
+    height: auto;
+    padding: 20px;
+    align-items: center;
+    justify-content: center;
+    margin-top: -10px;
+    
+}
+.boxyonalishlar{
+    border: 2px solid rgb(205, 197, 197);
+    width: 270px;
+    height: 120px;
+    flex-wrap: wrap; 
+    border-radius: 5px;
+}
+.bigbox2{
+    display: flex;
+    gap: 40px;
+    padding: 20px;
+    align-items: center;
+    justify-content: center;
+}
+.bigbox1{
+    display: flex;
+    gap: 40px;
+    padding: 20px;
+    align-items: center;
+    justify-content: center;
+}
+.boxh1{
+    font-size: 23px;
+    padding: 20px;
+}
+.boxp{
+    padding: 15px;
+    font-size: 15px;
+    color: #607987;
+}
+
+.divkirish{
+    z-index: 10 !important;
+}

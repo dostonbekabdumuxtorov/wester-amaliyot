@@ -1,0 +1,45 @@
+.div-cardkirish{
+    margin-top: 100px;
+    border: 2px solid #f9f8f7;
+    padding: 20px;
+    width: 49%;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+    border-radius: 25px;
+}
+.div-cardkirish:hover{
+    box-shadow:  0 0 4px grey;
+}
+.cardkirish{
+    padding: 20px;
+}
+.btn2{
+    display: flex;
+    justify-content: space-between;
+}
+.btn2 p{
+    color: gray;
+}
+.button-cardkirish{
+    width: auto;
+    margin-left: 30px;
+    height: 40px;
+    border-radius: 10px;
+    border: 1px solid   #f9f8f7;;
+    font-size: 14px;
+    padding: 0px 20px;
+    box-shadow: 0 0 4px gray;
+}
+.button-cardkirish:hover{
+    background-color: white;
+    cursor: pointer;
+    outline: 1px solid  #33312e;
+    transition: 0.3s;
+  
+}
+.cardkirish-img1{
+    width: 265px;
+    border-radius: 25px;
+    object-fit: cover;
+}

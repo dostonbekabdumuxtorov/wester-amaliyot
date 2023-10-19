@@ -1,0 +1,19 @@
+.kirish{
+    font-size: 15px !important;
+    color: black !important;
+}
+.navlinks{
+    text-decoration: none;
+    color: rgb(0, 0, 0);
+    font-size: 17px;
+    
+}
+
+.navlink{
+    text-decoration: none;
+    color: rgb(0, 0, 0);
+    font-size: 17px;
+    background-color: white;
+    padding: 10px 15px;
+    border-radius: 20px;
+}

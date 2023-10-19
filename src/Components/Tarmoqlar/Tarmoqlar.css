@@ -1,0 +1,10 @@
+
+.tarmoq-box{
+    width: 49%;
+    height: 180px;
+    padding: 10px;
+    display: flex;
+    gap: 30px;
+    margin-top: 40px;
+   
+}

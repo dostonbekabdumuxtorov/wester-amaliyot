@@ -1,0 +1,6 @@
+.boxyonalishlar:hover{
+    background: #fff;
+    cursor: pointer;
+    box-shadow: 3px 3px #607987 ;
+    transition: 0.1s;
+}

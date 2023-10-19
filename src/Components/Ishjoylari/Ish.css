@@ -1,0 +1,39 @@
+.div-ish{
+    height: 650px;
+}
+.h1-ish{
+    margin-top: 60px;
+    margin-left: 125px;
+}
+.p-ish{
+    margin-top: 25px;
+    margin-left: 125px;
+    color: #607987;
+}
+.big-ish{
+    padding: 30px;
+    
+}
+.box-ish{
+    width: 160px;
+    height: 100px;
+    background-color:  #f1f0ee;
+    border-radius: 10px;
+}
+.box-ish:hover{
+    background-color: #fff;
+    box-shadow: 2px 2px   #607987;
+}
+.box6{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 30px;
+    margin-top: 30px;
+
+}
+.ish-img1{
+    width: 150px;
+   margin-left: 4px;
+   margin-top: 8px;
+}
